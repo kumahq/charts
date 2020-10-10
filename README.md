@@ -13,6 +13,13 @@ helm repo add kuma https://kumahq.github.io/charts
 ```sh
 helm upgrade -i kuma kuma/kuma
 ```
+## Source Code
+
+The code of the Helm Charts is maintained in the main Kuma repo under [deployment/charts](https://github.com/kumahq/kuma/tree/master/deployments/charts)
+
+The charts are published in this repo's [gh-pages branch](https://github.com/kumahq/charts/tree/gh-pages)
+
+Artifact Hub references to these charts at https://artifacthub.io/packages/helm/kuma/kuma
 
 ### License
 
