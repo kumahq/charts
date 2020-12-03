@@ -1,22 +1,5 @@
 apiVersion: v1
 entries:
-  kong-mesh:
-  - apiVersion: v2
-    appVersion: 1.1.1
-    created: "2020-12-03T12:07:04.606669+02:00"
-    description: A Helm chart for Kong Mesh
-    digest: 3097a9ec4bf42a681bdf40e34275ed5e8184f0a772bcb22a1944fe54c8765803
-    home: https://docs.konghq.com/mesh/
-    icon: https://github.com/Kong/kong-mesh-charts/raw/master/artifacts/kong-mesh-square.png
-    keywords:
-    - Kong
-    - service mesh
-    - control plane
-    name: kong-mesh
-    type: application
-    urls:
-    - https://github.com/kumahq/charts/releases/download/kong-mesh-0.2.2/kong-mesh-0.2.2.tgz
-    version: 0.2.2
   kuma:
   - apiVersion: v2
     appVersion: 1.0.2
