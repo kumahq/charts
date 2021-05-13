@@ -2,6 +2,28 @@ apiVersion: v1
 entries:
   kuma:
   - apiVersion: v2
+    appVersion: 1.1.6
+    created: "2021-05-13T11:21:11.94085369Z"
+    description: A Helm chart for the Kuma Control Plane
+    digest: 1b94280aaa2b202e85a07834c47cc44b9a699a8feaa8218c183d6d2f8772f168
+    home: https://github.com/kumahq/kuma
+    icon: https://kuma.io/images/brand/kuma-logo-new.svg
+    keywords:
+    - service mesh
+    - control plane
+    maintainers:
+    - email: austin.cawley@gmail.com
+      name: austince
+    - email: jakub.dyszkiewicz@konghq.com
+      name: jakubdyszkiewicz
+    - email: nikolay.nikolaev@konghq.com
+      name: nickolaev
+    name: kuma
+    type: application
+    urls:
+    - https://github.com/kumahq/charts/releases/download/kuma-0.5.7/kuma-0.5.7.tgz
+    version: 0.5.7
+  - apiVersion: v2
     appVersion: 1.1.5
     created: "2021-04-29T15:06:24.066127035Z"
     description: A Helm chart for the Kuma Control Plane
