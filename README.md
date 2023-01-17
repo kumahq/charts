@@ -1,4 +1,4 @@
-![Kuma](https://kuma.io/images/brand/kuma-logo-new.svg)
+![Kuma](https://kuma-public-assets.s3.amazonaws.com/kuma-logo-v2.png)
 
 # Kuma Helm Charts
 
