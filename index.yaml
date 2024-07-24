@@ -277,6 +277,28 @@ entries:
     - https://github.com/kumahq/charts/releases/download/kuma-2.7.0-testprov/kuma-2.7.0-testprov.tgz
     version: 2.7.0-testprov
   - apiVersion: v2
+    appVersion: 2.6.10
+    created: "2024-07-24T06:38:41.48175306Z"
+    description: A Helm chart for the Kuma Control Plane
+    digest: eb86eac48cb6fb486b8f48a61850e9a320e56b50b4d878f8328a0a0be6e29509
+    home: https://github.com/kumahq/kuma
+    icon: https://kuma.io/assets/images/brand/kuma-logo-new.svg
+    keywords:
+    - service mesh
+    - control plane
+    maintainers:
+    - email: austin.cawley@gmail.com
+      name: austince
+    - email: jakub.dyszkiewicz@konghq.com
+      name: jakubdyszkiewicz
+    - email: nikolay.nikolaev@konghq.com
+      name: nickolaev
+    name: kuma
+    type: application
+    urls:
+    - https://github.com/kumahq/charts/releases/download/kuma-2.6.10/kuma-2.6.10.tgz
+    version: 2.6.10
+  - apiVersion: v2
     appVersion: 2.6.9
     created: "2024-07-03T07:16:55.545489704Z"
     description: A Helm chart for the Kuma Control Plane
@@ -2995,4 +3017,4 @@ entries:
     urls:
     - https://github.com/kumahq/charts/releases/download/kuma-0.0.0-sigtest/kuma-0.0.0-sigtest.tgz
     version: 0.0.0-sigtest
-generated: "2024-07-24T06:28:13.982041122Z"
+generated: "2024-07-24T06:38:41.482773775Z"
