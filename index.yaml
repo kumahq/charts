@@ -152,6 +152,31 @@ entries:
     - https://github.com/kumahq/charts/releases/download/kuma-2.13.0/kuma-2.13.0.tgz
     version: 2.13.0
   - apiVersion: v2
+    appVersion: 2.12.10
+    created: "2026-04-30T18:08:04.756672+02:00"
+    description: A Helm chart for the Kuma Control Plane
+    digest: 0e4a2471aac90b8c39541019f9ac9788035a61577414137bddf941dd426883bf
+    home: https://github.com/kumahq/kuma
+    icon: https://kuma.io/assets/images/brand/kuma-logo-new.svg
+    keywords:
+    - service mesh
+    - control plane
+    maintainers:
+    - email: jakub.dyszkiewicz@konghq.com
+      name: Jakub Dyszkiewicz
+      url: https://github.com/jakubdyszkiewicz
+    - email: charly.molter@konghq.com
+      name: Charly Molter
+      url: https://github.com/lahabana
+    - email: michael.beaumont@konghq.com
+      name: Mike Beaumont
+      url: https://github.com/michaelbeaumont
+    name: kuma
+    type: application
+    urls:
+    - https://github.com/kumahq/charts/releases/download/kuma-2.12.10/kuma-2.12.10.tgz
+    version: 2.12.10
+  - apiVersion: v2
     appVersion: 2.12.9
     created: "2026-04-07T11:55:00.897395783Z"
     description: A Helm chart for the Kuma Control Plane
@@ -401,6 +426,31 @@ entries:
     urls:
     - https://github.com/kumahq/charts/releases/download/kuma-2.12.0/kuma-2.12.0.tgz
     version: 2.12.0
+  - apiVersion: v2
+    appVersion: 2.11.13
+    created: "2026-04-30T18:08:04.266965+02:00"
+    description: A Helm chart for the Kuma Control Plane
+    digest: 29fe96800e1e80295ce5a91d525377a0da5f812c41a148c57bb0970d55f504ad
+    home: https://github.com/kumahq/kuma
+    icon: https://kuma.io/assets/images/brand/kuma-logo-new.svg
+    keywords:
+    - service mesh
+    - control plane
+    maintainers:
+    - email: jakub.dyszkiewicz@konghq.com
+      name: Jakub Dyszkiewicz
+      url: https://github.com/jakubdyszkiewicz
+    - email: charly.molter@konghq.com
+      name: Charly Molter
+      url: https://github.com/lahabana
+    - email: michael.beaumont@konghq.com
+      name: Mike Beaumont
+      url: https://github.com/michaelbeaumont
+    name: kuma
+    type: application
+    urls:
+    - https://github.com/kumahq/charts/releases/download/kuma-2.11.13/kuma-2.11.13.tgz
+    version: 2.11.13
   - apiVersion: v2
     appVersion: 2.11.12
     created: "2026-04-07T10:26:10.368248695Z"
@@ -1027,6 +1077,31 @@ entries:
     - https://github.com/kumahq/charts/releases/download/kuma-2.10.0/kuma-2.10.0.tgz
     version: 2.10.0
   - apiVersion: v2
+    appVersion: 2.9.15
+    created: "2026-04-30T18:08:05.714946+02:00"
+    description: A Helm chart for the Kuma Control Plane
+    digest: 2fd2cb0131b526814d311fe2dde665d4d0f0be5b211cf427dd76b5697a16a557
+    home: https://github.com/kumahq/kuma
+    icon: https://kuma.io/assets/images/brand/kuma-logo-new.svg
+    keywords:
+    - service mesh
+    - control plane
+    maintainers:
+    - email: jakub.dyszkiewicz@konghq.com
+      name: Jakub Dyszkiewicz
+      url: https://github.com/jakubdyszkiewicz
+    - email: charly.molter@konghq.com
+      name: Charly Molter
+      url: https://github.com/lahabana
+    - email: michael.beaumont@konghq.com
+      name: Mike Beaumont
+      url: https://github.com/michaelbeaumont
+    name: kuma
+    type: application
+    urls:
+    - https://github.com/kumahq/charts/releases/download/kuma-2.9.15/kuma-2.9.15.tgz
+    version: 2.9.15
+  - apiVersion: v2
     appVersion: 2.9.14
     created: "2026-04-08T16:02:02.496827437Z"
     description: A Helm chart for the Kuma Control Plane
@@ -1626,6 +1701,31 @@ entries:
     urls:
     - https://github.com/kumahq/charts/releases/download/kuma-2.8.0/kuma-2.8.0.tgz
     version: 2.8.0
+  - apiVersion: v2
+    appVersion: 2.7.25
+    created: "2026-04-30T18:08:05.393013+02:00"
+    description: A Helm chart for the Kuma Control Plane
+    digest: 049abcf38c27b10521a1308fbde262c231aa99cce8e63fd50be1597f58571c72
+    home: https://github.com/kumahq/kuma
+    icon: https://kuma.io/assets/images/brand/kuma-logo-new.svg
+    keywords:
+    - service mesh
+    - control plane
+    maintainers:
+    - email: jakub.dyszkiewicz@konghq.com
+      name: Jakub Dyszkiewicz
+      url: https://github.com/jakubdyszkiewicz
+    - email: charly.molter@konghq.com
+      name: Charly Molter
+      url: https://github.com/lahabana
+    - email: michael.beaumont@konghq.com
+      name: Mike Beaumont
+      url: https://github.com/michaelbeaumont
+    name: kuma
+    type: application
+    urls:
+    - https://github.com/kumahq/charts/releases/download/kuma-2.7.25/kuma-2.7.25.tgz
+    version: 2.7.25
   - apiVersion: v2
     appVersion: 2.7.24
     created: "2026-04-07T11:52:33.735976943Z"
@@ -5215,4 +5315,4 @@ entries:
     urls:
     - https://github.com/kumahq/charts/releases/download/kuma-0.0.0-sigtest/kuma-0.0.0-sigtest.tgz
     version: 0.0.0-sigtest
-generated: "2026-04-29T13:42:00.197047811Z"
+generated: "2026-04-30T18:08:05.715588+02:00"
